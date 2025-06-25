@@ -1,0 +1,16 @@
+Flask
+twilio
+pywhatkit
+pyautogui
+keyboard
+instagrapi
+paramiko
+schedule
+colorama
+termcolor
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+googlesearch-python
