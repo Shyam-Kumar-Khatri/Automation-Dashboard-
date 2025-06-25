@@ -11,7 +11,7 @@ A powerful multi-purpose automation system featuring both GUI and TUI interfaces
 ```
 Automation-Dashboard--main
 │   README.md                             # Project overview and instructions
-|   requirements.txt                      # # List of Python dependencies for Automation Dashboard
+|   requirements.txt                      # List of Python dependencies for Automation Dashboard
 │   menu_project_app_GUI.py               # GUI version of the dashboard
 │   menu_project_app_TUI.py               # Text UI version
 │   module_internet.py                    # Handles internet-related features
