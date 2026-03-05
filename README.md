@@ -1,5 +1,28 @@
 # 🚀 Automation Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-WebApp-black?logo=flask)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Workflow-green?logo=tensorflow)
+![pywhatkit](https://img.shields.io/badge/pywhatkit-Automation-orange)
+![Twilio](https://img.shields.io/badge/Twilio-API-red?logo=twilio)
+![pyautogui](https://img.shields.io/badge/pyautogui-Automation-blue)
+![keyboard](https://img.shields.io/badge/keyboard-Input-yellow)
+![instagrapi](https://img.shields.io/badge/instagrapi-Instagram-purple)
+![paramiko](https://img.shields.io/badge/paramiko-SSH-green)
+![schedule](https://img.shields.io/badge/schedule-TaskScheduler-red)
+![colorama](https://img.shields.io/badge/colorama-Terminal-cyan)
+![termcolor](https://img.shields.io/badge/termcolor-Terminal-magenta)
+![numpy](https://img.shields.io/badge/numpy-Matrix-blue?logo=numpy)
+![pandas](https://img.shields.io/badge/pandas-DataFrame-lightblue?logo=pandas)
+![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-orange?logo=matplotlib)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green?logo=scikitlearn)
+![opencv](https://img.shields.io/badge/OpenCV-ComputerVision-red?logo=opencv)
+![googlesearch](https://img.shields.io/badge/googlesearch-Search-purple)
+![Automation](https://img.shields.io/badge/Automation-Dashboard-blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shyam-Kumar-Khatri/Automation-Dashboard-)
+
 A powerful multi-purpose automation system featuring both GUI and TUI interfaces. This project integrates social media, messaging, cloud services, data science tasks, and more into a single dashboard environment to simplify digital workflows.
 
 > Note: This project was previously named "Menu Project". All files, directories, and references may still reflect the old name. Please consider "Menu Project" and "Automation Dashboard" as the same project for all purposes.
